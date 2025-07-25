@@ -7,6 +7,10 @@ This Project was done during my Internship as a AI DEVELOPER INTERN at Viswam.ai
 ### Assistant Name :
 **Data Science Mentor Assistant**
 
+
+https://github.com/user-attachments/assets/7c8da527-2b43-409d-980f-edea74d988d5
+
+
 ## Link for the application
 
 https://shailajagorile-g-ai-assistant.hf.space/?logs=container&__theme=system&deep_link=EUvN1VXtXyg
