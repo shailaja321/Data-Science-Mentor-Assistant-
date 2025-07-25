@@ -1,5 +1,7 @@
 # Open-Source AI Assistant Report
 
+This Project was done during my Internship as a AI DEVELOPER INTERN at Viswam.ai which is sponsered by Swecha telanagana , Meta ai and IIIT Hyderabad
+
 ## AI Assistant Overview
 
 ### Assistant Name :
